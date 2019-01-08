@@ -55,15 +55,15 @@ to free your computer from the bytes occupied by the .class:
 
 # to do:
 
-* clear up bumps with scaling / translating / graphing the points set
-* make lines thicker
-* pick pretty colors!
-* highlight the Point being examined
-* demonstrate lines as they are being considered
-* allow for user to { insert the filename / choose to see a random example } in the GUI
-* allow for user to set pace in the GUI
-* add explanations as visual progressess
-* implement Chan's algorithm
+- [ ] clear up bumps with scaling / translating / graphing the points set
+- [ ] make lines thicker
+- [ ] pick pretty colors!
+- [ ] highlight the Point being examined
+- [ ] demonstrate lines as they are being considered
+- [ ] allow for user to { insert the filename / choose to see a random example } in the GUI
+- [ ] allow for user to set pace in the GUI
+- [ ] add explanations as visual progressess
+- [ ] implement Chan's algorithm
 
 # other
 
